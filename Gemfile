@@ -25,7 +25,7 @@ gem 'devise'
 #gem 'image_processing'
 
 #gem 'kaminari'
-#gem 'bootstrap4-kaminari-views'
+gem 'bootstrap4-kaminari-views'
 #gem 'ransack'
 #gem 'select2-rails'
 #gem 'rubyzip'
